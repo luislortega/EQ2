@@ -16,3 +16,9 @@ int main(int argc, char *argv[]) {
 	return 0;
 }
 
+
+/*
+QA: Amaury Morales Cerecedo
+Entradas:
+Salidas:
+*/
