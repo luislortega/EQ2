@@ -1,5 +1,9 @@
 /*
+<<<<<<< HEAD:Ex1.Eq2.Int1.c
 Autor:Rodrigo Hernández 23/Enero/19
+=======
+Autor:Edgar Cambranes 26/Enero/17
+>>>>>>> Luis:Template.c
 Entradas:
 Salidas:
 Procedimiento general:
