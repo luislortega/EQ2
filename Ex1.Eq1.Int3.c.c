@@ -15,4 +15,9 @@ int main(int argc, char *argv[]) {
 	/*Salidas*/
 	return 0;
 }
-
+/*
+QA: Amílcar Ramírez
+*/
+/*Entradas:
+Salidas:
+*/
